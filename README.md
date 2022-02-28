@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**AJITH1036/AJITH1036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+MY NAME IS AJITH KUMAR
 
 - 🔭 I’m currently working on ...railways
 - 🌱 I’m currently learning ...full stack development
