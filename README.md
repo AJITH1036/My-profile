@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-MY NAME IS AJITH KUMAR
+MY NAME IS** AJITH KUMAR**
 
 - 🔭 I’m currently working on ...railways
 - 🌱 I’m currently learning ...full stack development
